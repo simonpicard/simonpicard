@@ -2,4 +2,4 @@
 
 - 🔭 Check out my [blog](https://www.simonmyway.com/?ref=Github_Profile)
 - 💬 Connect on [LinkedIn](https://www.linkedin.com/in/picard-simon/)
-- 📫 Get my latest [CV](https://www.simonmyway.com/pdf/cv_picard_simon.pdf)
+- 📫 Get my latest [CV](https://www.simonmyway.com/pdf/resume_picard_simon.pdf)
